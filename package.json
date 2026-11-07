@@ -8,7 +8,7 @@
     "start": "node index.js",
     "test": "node tests/smoke.js",
     "setup": "bash install.sh",
-    "prestart": "node scripts/preflight.mjs",
+  
     "doctor": "node scripts/doctor.mjs"
   },
   "engines": {
